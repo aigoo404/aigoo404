@@ -7,7 +7,7 @@
   + [GitHub](https://github.com/aigoo404)
   + [Youtube](https://www.youtube.com/@aigoo404)
 - 😄 Favourites: Twice, ice cream, AI-related stuff. In that order
-- ⚡ Fun fact: I love speedcubing while listening to K-Pop. My current fastest time is 8.123 seconds
+- ⚡ Fun fact: I love speedcubing while listening to K-Pop. My current fastest time is 7.721 seconds, archived on March 3, 2025
 
 <!---
 aigoo404/aigoo404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
